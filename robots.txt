@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://garugaz.github.io/sitemap.txt.gz
+Sitemap: https://garugaz.github.io/sitemap/sitemap_index.txt.gz
